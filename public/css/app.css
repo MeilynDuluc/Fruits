@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&family=PT+Serif&display=swap');
+
+body {
+  background: url(https://i.pinimg.com/564x/8c/3e/5c/8c3e5c700ac86b6bc2a16a0e402178e0.jpg);
+  margin: 10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px;
+  font-family: 'PT Serif', serif;
+}
+
+h1 {
+  font-family: 'PT Serif', serif;
+  background: #fe9728;
+  margin:0;
+  margin-bottom: .5em;
+  padding: 1em;
+  text-align: center;
+}
+
+a {
+  color: #e4b565;
+  text-decoration: none;
+  text-shadow: 1px 1px 1px black;
+  font-size: 1.5em;
+  text-align: center;
+  background: rgb(159,91,29)
+
+  ;
+}
+
+a:hover {
+  color: ghostwhite;
+}
+
+li {
+  list-style: none;
+}
+
+li a {
+  color: #efd57a;
+}
+
+input[type=text] {
+  padding: .3em;
+}
+
+input[type=submit] {
+  padding: .3em;
+  color: orange;
+  background: #9f5b1d;
+  font-size: 1em;
+  /* border-radius: 10%; */
+}
